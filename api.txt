@@ -1,0 +1,25 @@
+Redeem
+GetMy Profile-->Available redeem point
+SIgnIn
+
+
+Checkout areas
+
+Addresses
+
+For getting Address
+
+Order- Products-Create Order(for user)
+
+BillingAddress,shipping address
+
+have to show order number in screen
+
+GetOrders(For Buyer)-- for buyer all details will come
+GetOrders(For Seller)--- ente product vannathaanu
+
+GetOrders details(For Buyer)
+
+GetOrders details(For Seller) corporate user
+
+Cancel Order(for Admin and buyer)
